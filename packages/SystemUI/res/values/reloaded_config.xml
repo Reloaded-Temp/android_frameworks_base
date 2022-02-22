@@ -42,4 +42,7 @@
     <!-- Udfps vendor code -->
     <integer name="config_udfps_vendor_code">0</integer>
 
+    <!-- Whether the device has camera underneath the display -->
+    <bool name="config_deviceHasUnderDisplayCamera">false</bool>
+
 </resources>
